@@ -1,0 +1,53 @@
+{
+  "Cardetails": [
+    {
+      "Id": 1,
+      "CarName": "Hummer",
+      "Model": "H3",
+      "Mileage": "196321",
+      "Color": "Pink"
+    },
+    {
+      "Id": 2,
+      "CarName": "Chevrolet",
+      "Model": "1500 Silverado",
+      "Mileage": "195310",
+      "Color": "Blue"
+    },
+    {
+      "Id": 3,
+      "CarName": "Infiniti",
+      "Model": "M",
+      "Mileage": "194846",
+      "Color": "Puce"
+    },
+    {
+      "Id": 4,
+      "CarName": "Chevrolet",
+      "Model": "Blazer",
+      "Mileage": "189804",
+      "Color": "Indigo"
+    },
+    {
+      "Id": 5,
+      "CarName": "Kia",
+      "Model": "Amanti",
+      "Mileage": "189651",
+      "Color": "Indigo"
+    },
+    {
+      "Id": 6,
+      "CarName": "Audi",
+      "Model": "S5",
+      "Mileage": "644541",
+      "Color": "white"
+    },
+    {
+      "Id": 7,
+      "CarName": "GMC",
+      "Model": "EnvoyXUV",
+      "Mileage": "187960",
+      "Color": "Turquoise"
+    }
+  ]
+}
